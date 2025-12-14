@@ -1,0 +1,7 @@
+{
+  "name": "Study4 Inburgering",
+  "description": "A comprehensive, AI-powered exam preparation platform for the Dutch Inburgering exam. Features adaptive learning, real-time feedback, and full module coverage.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
